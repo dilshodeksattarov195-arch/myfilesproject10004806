@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterftringify",
+        "uuid": 32454918,
+        "checksum": "gdwelc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
